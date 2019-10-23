@@ -3,3 +3,8 @@ p {
     font-family: 'Courier New', Courier, monospace;
     font-size: 10pt;
 }
+
+p:hover {
+    font-size: 16pt;
+    color: red;
+}
