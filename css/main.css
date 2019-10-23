@@ -5,7 +5,7 @@ p {
 }
 
 body {
-    background-image: src="duck.jpg";
+    background-image: url("../duck.jpg");
 }
 
 p:hover {
