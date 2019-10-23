@@ -4,6 +4,10 @@ p {
     font-size: 10pt;
 }
 
+body {
+    background-image: src="duck.jpg";
+}
+
 p:hover {
     font-size: 16pt;
     color: red;
