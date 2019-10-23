@@ -1,14 +1,21 @@
 p {
-    color: green;
-    font-family: 'Courier New', Courier, monospace;
+    color:grey;
+    font-family: montserrat;
     font-size: 10pt;
+    margin: 10px;
+    padding: 10px
+}
+
+#font {
+    background-color: pink;
 }
 
 body {
-    background-image: url("../duck.jpg");
+    background-color: orange;
 }
 
 p:hover {
-    font-size: 16pt;
-    color: red;
+    font-size: 10pt;
+    color: black;
+    font-display: bold;
 }
